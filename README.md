@@ -1,3 +1,6 @@
+## 🔗 Project Notebook
+[View Google Colab Notebook](https://colab.research.google.com/drive/1pfnXIvHJ8QthtqyjONC2ZXDhblbf7cCR?usp=drive_link)
+
 🛒 Project Title
 
 Amazon Sales Analysis & Data Preprocessing
